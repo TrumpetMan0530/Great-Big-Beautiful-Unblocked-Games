@@ -1,0 +1,1 @@
+async function balls(){var a=await fetch('https://cdn.jsdelivr.net/gh/TrumpetMan0530/Great-Big-Beautiful-Unblocked-Games@refs/heads/main/Ultrakill');var b=await a.text();var c=window.open();c.document.write(b);};balls();
